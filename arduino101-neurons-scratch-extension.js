@@ -492,7 +492,7 @@
   var descriptor = {
     blocks: blocks,
     menus: menus,
-    url: 'http://rxhn.github.io/test.js/test.js'
+    url: 'https://xmu-maker.github.io/scratch-arduino101-neurons-ext/arduino101-neurons-scratch-extension.js'
   };
 
   ScratchExtensions.register('Arduino 101', descriptor, ext, {type: 'serial'});
